@@ -8,6 +8,7 @@ class Jrebel < Formula
 
   def install
     prefix.install Dir['*']
+    rm_rf Dir['bin/*.cmd']
   end
 end
 

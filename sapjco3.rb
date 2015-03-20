@@ -1,9 +1,9 @@
 require 'formula'
 
-class ExtractLocalArchive < CurlDownloadStrategy 
+class ExtractLocalArchive < CurlDownloadStrategy
   def _fetch
     cp @url, temporary_path
-  end  
+  end
 end
 
 class Sapjco3 < Formula
