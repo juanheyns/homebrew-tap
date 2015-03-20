@@ -4,7 +4,7 @@ class Etsviewer < Formula
   homepage 'http://www.enthuware.com/'
   url 'http://enthuware.com/etsviewer/etsviewer.jar', :using => :nounzip
   version '3.56'
-  md5 '62840e1a26d3d01c7e1f5af941f39cff'
+  sha1 'f68ae0c58e86abb1351a0f8abcbc9766450b14f3'
 
   def install
     prefix.install "etsviewer.jar"
