@@ -2,7 +2,7 @@ class Osxcli < Formula
   homepage "https://github.com/juanheyns/osxcli"
   url "https://github.com/juanheyns/osxcli/archive/0.1.tar.gz"
   version "0.1"
-  sha1 "e5173d3af494db13088c8da51855b3de31701f19"
+  sha1 "31be2c18fe254a7cee2f5774321c68f7e94def40"
 
   def install
     bin.install "screensaver"
