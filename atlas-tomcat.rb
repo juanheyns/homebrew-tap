@@ -10,7 +10,7 @@ class AtlasTomcat < Formula
   resource "fulldocs" do
     url "http://archive.apache.org/dist/tomcat/tomcat-7/v7.0.35/bin/apache-tomcat-7.0.35-fulldocs.tar.gz"
     version "7.0.35"
-    sha1 "96852de4949a1765b1a5478c8c586220bfc16377"
+    sha1 "a9241d9a99f84f0bed6f81fbd2682f7a977e0745"
   end
 
   # Keep log folders
