@@ -3,7 +3,7 @@ require 'formula'
 class AtlasTomcat < Formula
   homepage "http://tomcat.apache.org/"
   url "http://archive.apache.org/dist/tomcat/tomcat-7/v7.0.35/bin/apache-tomcat-7.0.35.tar.gz"
-  sha1 "c9f8d87a212091c33027f122aba90b78eb1c0a01"
+  sha1 "62a50fcd4c4144971003d3d2688129ae33cce3e6"
 
   option "with-fulldocs", "Install full documentation locally"
 
