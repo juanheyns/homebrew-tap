@@ -1,9 +1,9 @@
 class AgentAws < Formula
   desc "Run CLI agents against AWS in a scoped read-only sandbox"
   homepage "https://github.com/juanheyns/agent-aws"
-  url "https://github.com/juanheyns/agent-aws/archive/refs/tags/v0.2.0.tar.gz"
-  version "0.2.0"
-  sha256 "b83b2dacc1f37c4af510745b636f29b501a8a992228bf3e630d8be0421f88d5f"
+  url "https://github.com/juanheyns/agent-aws/archive/refs/tags/v0.3.0.tar.gz"
+  version "0.3.0"
+  sha256 "0633c4a21f97b36e0662eb79d765b13e01e7487e336d79041a39c323adfa1f5a"
   license "MIT"
 
   uses_from_macos "python"
